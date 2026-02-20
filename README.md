@@ -1,2 +1,3 @@
 # SQL-Based-Olympic-Data-Analysis
-Collected and cleaned Olympic athlete data by handling missing values, removing duplicates, and standardizing formats. Applied SQL techniques like joins, grouping, and aggregation to analyze medal counts, participation, and country performance, delivering meaningful data-driven insights.
+Collected Olympic athlete data and cleaned it by removing duplicate records, fixing missing values, and making the data consistent. Used SQL queries like joins, grouping, and aggregation to analyze medal counts, athlete participation, and country performance, and generated useful insights from the data.
+
